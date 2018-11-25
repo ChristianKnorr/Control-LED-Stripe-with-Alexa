@@ -4,3 +4,4 @@ Still in Development!
 * Search Devices with Alexa: works
 * Switch Devices on/off with Alexa: works
 * BUT store used last effect to use it after reset: nope :(
+* only Alexa, no MQTT, no BLYNK...
